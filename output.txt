@@ -1,0 +1,154 @@
+
+> second-mockup@0.1.0 build D:\OrderPower\Mockups\fifth-mockup
+> react-scripts build
+
+Creating an optimized production build...
+Compiled with warnings.
+
+./src/components/PageComponent.js
+  Line 10:  'activePage' is assigned a value but never used                                   no-unused-vars
+  Line 11:  'visiblePages' is assigned a value but never used                                 no-unused-vars
+  Line 12:  'pageCells' is assigned a value but never used                                    no-unused-vars
+  Line 16:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 18:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 19:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 21:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/CustomerSearch.js
+  Line 117:  'scrollStyle' is assigned a value but never used  no-unused-vars
+
+./src/components/DataGrid.js
+  Line 1:    '_' is defined but never used                                                     no-unused-vars
+  Line 4:    'Icon' is defined but never used                                                  no-unused-vars
+  Line 4:    'Label' is defined but never used                                                 no-unused-vars
+  Line 4:    'Menu' is defined but never used                                                  no-unused-vars
+  Line 8:    'SpinnerScreen' is defined but never used                                         no-unused-vars
+  Line 181:  Expected '===' and instead saw '=='                                               eqeqeq
+  Line 182:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/SpinnerScreen.js
+  Line 37:  'style' is assigned a value but never used            no-unused-vars
+  Line 42:  'centerText' is assigned a value but never used       no-unused-vars
+  Line 46:  'searchComponent' is assigned a value but never used  no-unused-vars
+
+./src/containers/Main.js
+  Line 3:    'CustomField' is defined but never used                                                                    no-unused-vars
+  Line 4:    'SearchModal' is defined but never used                                                                    no-unused-vars
+  Line 7:    'logo' is defined but never used                                                                           no-unused-vars
+  Line 8:    'Login' is defined but never used                                                                          no-unused-vars
+  Line 19:   Expected '===' and instead saw '=='                                                                        eqeqeq
+  Line 37:   img elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  Line 48:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 49:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 50:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 51:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 52:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 59:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 60:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 61:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 62:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 63:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 64:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 71:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 72:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 73:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 74:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 75:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 76:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 84:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 85:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 86:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 87:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 94:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 95:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 96:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 97:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 98:   Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 105:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 106:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 107:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 108:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 109:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 116:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 117:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 118:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 125:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 126:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 127:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 128:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 129:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 130:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 135:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 136:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 137:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 138:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 139:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 140:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 141:  Links must not point to "#". Use a more descriptive href or use a button instead                           jsx-a11y/href-no-hash
+  Line 150:  Script URL is a form of eval                                                                               no-script-url
+
+./src/components/Login.js
+  Line 3:   'NavLink' is defined but never used               no-unused-vars
+  Line 3:   'Switch' is defined but never used                no-unused-vars
+  Line 64:  'footerStyle' is assigned a value but never used  no-unused-vars
+  Line 69:  'style' is assigned a value but never used        no-unused-vars
+
+./src/components/MediaList.js
+  Line 40:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 55:  'scrollStyle' is assigned a value but never used                                  no-unused-vars
+
+./src/components/SearchModal.js
+  Line 48:  'style' is assigned a value but never used  no-unused-vars
+
+./src/components/ItemToShipSearch.js
+  Line 5:    'Select' is defined but never used                no-unused-vars
+  Line 5:    'Accordion' is defined but never used             no-unused-vars
+  Line 5:    'Icon' is defined but never used                  no-unused-vars
+  Line 112:  'activeIndex' is assigned a value but never used  no-unused-vars
+  Line 151:  'scrollStyle' is assigned a value but never used  no-unused-vars
+
+./src/components/VendorSearch.js
+  Line 5:   'Select' is defined but never used                                                no-unused-vars
+  Line 5:   'Accordion' is defined but never used                                             no-unused-vars
+  Line 5:   'Icon' is defined but never used                                                  no-unused-vars
+  Line 6:   'DropDown' is defined but never used                                              no-unused-vars
+  Line 51:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 68:  'scrollStyle' is assigned a value but never used                                  no-unused-vars
+
+./src/components/OrderList.js
+  Line 8:    'PageComponent' is defined but never used           no-unused-vars
+  Line 93:   'searchRequest' is assigned a value but never used  no-unused-vars
+  Line 212:  'longWidth' is assigned a value but never used      no-unused-vars
+  Line 215:  'orders' is assigned a value but never used         no-unused-vars
+  Line 216:  'header' is assigned a value but never used         no-unused-vars
+  Line 351:  No duplicate props allowed                          react/jsx-no-duplicate-props
+  Line 384:  No duplicate props allowed                          react/jsx-no-duplicate-props
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  200.6 KB   build\static\js\main.c5e285e5.js
+  101.23 KB  build\static\css\main.51d19a78.css
+
+The project was built assuming it is hosted at the server root.
+You can control this with the homepage field in your package.json.
+For example, add this to build it for GitHub Pages:
+
+  "homepage" : "http://myname.github.io/myapp",
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  http://bit.ly/2vY88Kr
+

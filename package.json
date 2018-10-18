@@ -1,0 +1,44 @@
+{
+  "homepage": "/OrderPowerWeb",
+  "name": "second-mockup",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.22.2",
+    "react": "^16.3.2",
+    "react-cookie": "^3.0.3",
+    "react-date-picker": "^6.10.1",
+    "react-datepicker": "^1.5.0",
+    "react-dom": "^16.3.2",
+    "react-nested-menu": "^1.0.7",
+    "react-progressbar": "^15.4.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-spinners": "^0.3.2",
+    "redux": "^4.0.0",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.81.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "postcss-loader": "^2.1.6",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^3.12.0",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
